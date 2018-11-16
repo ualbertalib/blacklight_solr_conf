@@ -141,6 +141,7 @@
          summary_holdings_tesim^50
          title_series_unstem_search^25
          local_note_tesim^25
+	 general_note_tesim^25
          awards_note_tesim^25
          title_series_t^10
          section_number_tesim^10
@@ -182,6 +183,7 @@
          summary_holdings_tesim^500
          title_series_unstem_search^250
          local_note_tesim^250
+	 general_note_tesim^250
          awards_note_tesim^250
          title_series_t^100
          section_number_tesim^100
