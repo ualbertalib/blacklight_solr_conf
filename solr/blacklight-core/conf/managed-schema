@@ -511,7 +511,7 @@
    <field name="timestamp" type="date" indexed="true" stored="true" default="NOW" multiValued="false"/>
    <!-- default, catch all search field -->
    <field name="text" type="text" indexed="true" stored="false" multiValued="true"/>
-   
+
    <!-- these display fields are NOT multi-valued -->
    <field name="marc_display" type="text" indexed="false" stored="true" multiValued="false"/>
    <field name="title_display" type="text" indexed="true" stored="true" multiValued="true"/>

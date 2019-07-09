@@ -112,6 +112,7 @@
        <str name="qf">
          id^100000
          isbn_t^100000
+         isbn_cancelled_tim^100000
          issn_t^100000
          lc_callnum_display^100000
          title_unstem_search^100000
@@ -151,6 +152,7 @@
        <str name="pf">
          id^1000000
          isbn_t^1000000
+         isbn_cancelled_tim^1000000
          issn_t^1000000
          lc_callnum_display^1000000
          title_unstem_search^1000000
@@ -427,7 +429,10 @@
       </str>
       
       <!-- for user query terms in number text box -->
-      <str name="qf_number">isbn_t</str>
+      <str name="qf_number">
+        isbn_t
+        isbn_cancelled_tim
+      </str>
       
       <!-- for user query terms in keyword text box -->
       <str name="qf_keyword">text</str>
@@ -440,7 +445,8 @@
         author_display,
         author_vern_display, 
         format, 
-        isbn_t, 
+        isbn_t,
+        isbn_cancelled_tim,
         language_facet, 
         lc_callnum_display,
         material_type_display, 

@@ -8,3 +8,6 @@ and releases in blacklight_solr_conf project adheres to [Semantic Versioning](ht
 
 ### Removed
 - Removed subtitle_t, subtitle_display, and subtitle_vern_display references [PR#5](https://github.com/ualbertalib/blacklight_solr_conf/pull/5)
+
+### Added
+- Added the ability to search by a cancelled isbn [PR#6](https://github.com/ualbertalib/blacklight_solr_conf/pull/6)
