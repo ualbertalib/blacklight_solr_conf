@@ -7,4 +7,4 @@ and releases in blacklight_solr_conf project adheres to [Semantic Versioning](ht
 ## [Unreleased]
 
 ### Added
-- Added the ability to search by a invalid issn [PR#](https://github.com/ualbertalib/blacklight_solr_conf/pull/)
+- Added the ability to search by a invalid issn [PR#7](https://github.com/ualbertalib/blacklight_solr_conf/pull/7)
