@@ -12,3 +12,4 @@ and releases in blacklight_solr_conf project adheres to [Semantic Versioning](ht
 ### Added
 - Added the ability to search by a cancelled isbn [PR#6](https://github.com/ualbertalib/blacklight_solr_conf/pull/6)
 - Added the ability to search by a invalid issn [PR#7](https://github.com/ualbertalib/blacklight_solr_conf/pull/7)
+- Added the ability to search by oclc number [PR#8](https://github.com/ualbertalib/blacklight_solr_conf/pull/8)
